@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5f4e44ef932f9ce4e19dde2e24375ebee06e686">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.google.vr-sdk-common-1.10.0_aa9e80eb74cba3ff038fa2bfe964958054cae768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_66fdde9be58559f56188b7dbbb761e2b30211293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_cd5e9591f8d592669e20e160151bbd6e3171651d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.google.vr/sdk-commonwidget/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d5c35a22b8e4563afeb030eb16f137717503d1">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.google.vr-sdk-commonwidget-1.10.0_01465cdcf8254d98f71a710d33cd06b3b0122629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_019a113477211f0ff4556039adad617a9beb8bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_31d958afc5f339f11cedcee1266f45628957a520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_39da6c30779ad5a59bc9e611e76d9d3f9c4ddc0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_220bb4bddc0d68ca6f614abd572d0a98f4f24a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.1.0/5110f05deac8f15244897b3f70e9ce413468771d/protobuf-javanano-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5110f05deac8f15244897b3f70e9ce413468771d">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/protobuf-javanano-3.1.0_a9ee15ea7c9ea477adadfdd4883ca2185450d00b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_641b582e9227ee99e7c4702131bf35922d3f6422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_ac9102fbd7ada22032814ec6e71eee3333588616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_c97c3501a595230830a94423e763418a4ed06caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_9bca7569890f3cb462a7ab7840697181c50924ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3733c8530de39fb362397b983aba717a6baea3fc">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d7f49ba44acd25eb8ef8fb75bda711a994393cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/exploded-aar/com.google.vr/sdk-panowidget/1.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="599391252c9619b99dbc5cea5685da204a07f03c">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/com.google.vr-sdk-panowidget-1.10.0_80965c78a9ef824c374ab55f697f45143dd9d0e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c5b53aa10cba3b8fedeff2a7ae150c80980d52b">
+        <dex dex="/home/rony/Desktop/Uri/Repositories/PanoCamera/app/build/intermediates/pre-dexed/debug/instant-run_493c194ca0c42a13cb9879fd08d47e525a404717.jar" />
+    </item>
+
+</items>
